@@ -4,5 +4,6 @@ function CalcularConverção(){
 
     let resultado = (parseFloat(n1) *100 )
 
-    document.getElementById("resposta").innerHTML = resultado
+    document.getElementById("centimetros").innerHTML = resultado
+
 }

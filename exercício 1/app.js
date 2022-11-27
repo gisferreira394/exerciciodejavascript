@@ -1,1 +1,1 @@
-document.getElementById("mensagem").innerHTML = "alo mundo"
+document.getElementById("Mensagem").innerHTML = "Alo mundo"
