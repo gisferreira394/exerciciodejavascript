@@ -11,12 +11,7 @@ if(media>=7){
 document.getElementById("resposta").innerHTML.value = "Aprovado parabéns"
 }
 
-else(media>=5){
+else if(media>=5){
 
     document.getElementById("resposta").innerHTML.value = " Recuperação "}
-}
-
-if else (media <=4){
-
-    document.getElementById("resposta").innerHTML.value = " Reprovado "
 }
